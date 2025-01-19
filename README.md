@@ -21,11 +21,13 @@
 ---
 
 ### 📫 Cómo contactarme:
-- **Email:** [contacto@datapixel.tech](mailto:contacto@datapixel.tech)  
-- **LinkedIn:** [Florencia Gana](https://linkedin.com/in/florenciagana)
+- **🌐 Web:** [www.datapixel.tech](https://www.datapixel.tech)  
+- **✉️ Email:** [contacto@datapixel.tech](mailto:contacto@datapixel.tech)  
+- **🔗 LinkedIn:** [Florencia Gana](https://linkedin.com/in/florenciagana)
 
 ---
 
 ### 🌟 Proyectos destacados:
 - [**Proyecto 1**](#) - Análisis de datos financieros con Python.
 - [**Proyecto 2**](#) - Automatización de reportes con SQL y Power BI.
+- [**Proyecto 3**](#) - Diseño y desarrollo de páginas web con WordPress y HTML/CSS.
